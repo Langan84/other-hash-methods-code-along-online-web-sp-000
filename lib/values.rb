@@ -7,3 +7,7 @@ groceries = {
   meat: ["chicken", "steak", "salmon"],
   grains: ["rice", "pasta"]
 }
+
+def values(groceries)
+  groceries.value
+end
